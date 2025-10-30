@@ -304,3 +304,602 @@ glazewm_tiling_direction:
 2025-10-29 23:17:38,617 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\-Nara\.config\yasb
 2025-10-29 23:17:38,651 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
 2025-10-29 23:17:38,652 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:04:09,930 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:04:09,935 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:04:09,938 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:04:20,842 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:04:28,842 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:04:30,193 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:04:34,108 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:04:34,154 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:04:34,599 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:04:34,982 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:04:34,982 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:04:34,984 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:04:35,040 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:04:35,042 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:09:23,336 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:09:23,445 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:09:23,445 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:09:23,456 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:09:23,786 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:09:23,788 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:09:23,788 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:09:23,788 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:09:24,121 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:09:24,122 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:09:24,123 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:09:24,130 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:09:24,144 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:09:24,147 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:09:24,290 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:09:24,428 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:09:24,556 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:09:24,644 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:09:24,680 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'battery
+2025-10-30 08:09:25,357 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:09:25,399 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:09:25,415 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'battery'
+2025-10-30 08:09:25,709 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:09:25,727 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'battery'
+2025-10-30 08:09:25,888 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:09:25,888 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:09:25,889 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "battery" is undefined.
+2025-10-30 08:09:25,903 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:09:26,029 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:09:26,030 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:10:00,039 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:10:00,141 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:10:00,141 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:10:00,150 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:10:00,454 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:10:00,454 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:10:00,455 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:10:00,455 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:10:00,836 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:10:00,836 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:10:00,836 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:10:00,845 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:10:00,858 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:10:00,860 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:10:00,956 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:10:01,212 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:10:01,324 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:10:01,410 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:10:02,412 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:10:02,465 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:10:02,809 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:10:03,102 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:10:03,102 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:10:03,103 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:10:03,153 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:10:03,154 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:14:23,289 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:14:23,400 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:14:23,400 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:14:23,409 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:14:23,730 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:14:23,731 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:14:23,732 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:14:23,732 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:14:23,981 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:14:23,981 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:14:23,983 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:14:23,993 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:14:23,999 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:14:31,259 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:14:31,689 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:14:32,279 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:14:32,530 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:14:33,623 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:14:33,678 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:14:34,080 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:14:34,430 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:14:34,430 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:14:34,431 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:14:34,488 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:14:34,489 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:14:56,755 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:14:56,855 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:14:56,855 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:14:56,863 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:14:57,177 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:14:57,178 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:14:57,178 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:14:57,179 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:14:57,543 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:14:57,543 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:14:57,544 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:14:57,555 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:14:57,561 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:14:57,563 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:14:57,680 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:14:57,840 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:14:57,951 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:14:58,054 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:14:58,751 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:14:58,792 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:14:59,104 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:14:59,361 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:14:59,361 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:14:59,362 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:14:59,413 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:14:59,414 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:18:41,498 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:18:41,609 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:18:41,609 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:18:41,621 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:18:41,927 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:18:41,928 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:18:41,928 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:18:41,928 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:18:42,327 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:18:42,328 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:18:42,328 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:18:42,339 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:18:42,344 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:18:42,347 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:18:42,429 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:18:42,593 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:18:42,718 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:18:42,807 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:18:43,533 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:18:43,573 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:18:43,882 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:18:44,201 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:18:44,212 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:18:44,212 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:18:44,252 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:18:44,252 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:25:07,987 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:25:08,099 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:25:08,099 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:25:08,110 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:25:08,414 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:25:08,415 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:25:08,416 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:25:08,416 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:25:08,666 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:25:08,666 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:25:08,667 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:25:08,681 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:25:08,681 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:25:15,180 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:25:15,638 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:25:16,048 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'applications
+2025-10-30 08:25:16,125 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:25:16,424 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:25:17,626 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:25:17,656 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'applications'
+2025-10-30 08:25:17,693 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:25:18,151 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'applications'
+2025-10-30 08:25:18,163 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:25:18,438 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:25:18,439 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:25:18,439 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "applications" is undefined.
+2025-10-30 08:25:18,462 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:25:18,503 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:25:18,504 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:25:40,925 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:25:41,030 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:25:41,030 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:25:41,038 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:25:41,353 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:25:41,353 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:25:41,353 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:25:41,353 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:25:41,653 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:25:41,653 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:25:41,653 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:25:41,660 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:25:41,672 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:25:41,673 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:25:41,855 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:25:42,019 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:25:42,091 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'apps
+2025-10-30 08:25:42,110 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:25:42,228 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:25:42,898 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:25:42,928 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'apps'
+2025-10-30 08:25:42,937 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:25:43,245 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'apps'
+2025-10-30 08:25:43,255 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:25:43,518 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:25:43,519 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:25:43,519 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "apps" is undefined.
+2025-10-30 08:25:43,541 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:25:43,577 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:25:43,578 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:26:07,540 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:26:07,644 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:26:07,644 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:26:07,653 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:26:07,967 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:26:07,967 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:26:07,968 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:26:07,968 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:26:08,245 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:26:08,246 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:26:08,247 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:26:08,256 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:26:08,267 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:26:08,269 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:26:08,469 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:26:08,673 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:26:08,804 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:26:08,911 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:26:09,548 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:26:09,587 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:26:09,907 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:26:10,168 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:26:10,168 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:26:10,180 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:26:10,221 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:26:10,222 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:34:51,882 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:34:51,994 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:34:51,994 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:34:52,003 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:34:52,733 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:34:52,733 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:34:52,733 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:34:52,743 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:34:52,745 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:34:56,081 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:34:56,083 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:34:56,084 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:34:56,085 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:34:59,595 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:35:00,957 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:35:09,001 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:35:10,275 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:35:11,750 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:35:11,798 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:35:12,181 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:35:12,497 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:35:12,498 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:35:12,498 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:35:12,563 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:35:12,566 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:44:12,654 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-10-30 08:44:12,759 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:44:12,759 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:44:13,084 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:44:13,085 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:44:13,085 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:44:13,086 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:44:13,338 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:44:13,338 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:44:13,339 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:44:13,348 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:44:13,349 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:44:13,351 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:44:13,587 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:44:13,749 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:44:13,846 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:44:13,938 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:44:14,759 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:44:14,798 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:44:15,109 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:44:15,304 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:44:15,305 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:44:15,305 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:44:15,420 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:44:15,421 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:46:01,647 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:46:01,760 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:46:01,760 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:46:01,770 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:46:02,613 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:46:02,614 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:46:02,614 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:46:02,624 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:46:02,632 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:46:02,636 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:46:06,284 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:46:06,287 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:46:06,287 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:46:07,752 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:46:17,040 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:46:18,496 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:46:21,032 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:46:21,103 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:46:21,565 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:46:21,960 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:46:21,960 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:46:21,961 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:46:22,013 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:46:22,016 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:46:26,261 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 08:46:26,372 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 08:46:26,372 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 08:46:26,381 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 08:46:26,750 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 08:46:26,751 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 08:46:26,751 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 08:46:26,751 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 08:46:27,125 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 08:46:27,125 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 08:46:27,127 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 08:46:27,137 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 08:46:27,147 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 08:46:27,149 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-30 08:46:27,252 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 08:46:27,513 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 08:46:27,617 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 08:46:27,746 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:46:29,100 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 08:46:29,138 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:46:29,463 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 08:46:29,697 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 08:46:29,698 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 08:46:29,698 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 08:46:29,755 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 08:46:29,756 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 08:46:29,769 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ1CN4442177F.json
+2025-10-30 08:46:29,769 [DEBUG] [MainThread] [systray_widget/systray.py:548]: State file not found.
+2025-10-30 08:46:29,770 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-30 08:46:29,771 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-30 08:46:29,772 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ2CN444217B6.json
+2025-10-30 08:46:29,772 [DEBUG] [MainThread] [systray_widget/systray.py:548]: State file not found.
+2025-10-30 08:46:29,773 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_AUOPTRONICSDISPLAY1.json
+2025-10-30 08:46:29,773 [DEBUG] [MainThread] [systray_widget/systray.py:548]: State file not found.
+2025-10-30 08:46:29,774 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2756868
+2025-10-30 08:46:29,774 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2756868
+2025-10-30 08:46:29,830 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-30 08:46:30,032 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2756868
+2025-10-30 08:46:30,032 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-30 08:46:30,055 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49268
+2025-10-30 08:46:30,070 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 58396829
+2025-10-30 08:46:31,598 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:31,598 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:31,598 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:31,598 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:31,598 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:31,598 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:34,322 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:34,322 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:34,322 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:34,322 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:34,322 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:34,322 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:39,107 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:39,108 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:39,108 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:39,108 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:46:39,124 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 08:46:39,124 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 08:55:07,004 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\kimanh\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- primary-bar:
+  - screens:
+    - 0:
+      - must be of string type
+
+2025-10-30 09:55:14,439 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 09:55:14,439 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 09:55:14,440 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 09:55:14,440 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 09:55:14,440 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 09:55:14,440 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 09:55:16,173 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 09:55:16,173 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 09:55:16,189 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 09:55:16,191 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 09:55:16,191 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 09:55:16,191 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 10:46:38,341 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 10:46:38,342 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 10:46:38,342 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 10:46:38,342 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 10:46:38,342 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 10:46:38,342 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 11:59:54,549 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 11:59:54,550 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 11:59:54,550 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 11:59:54,550 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 11:59:54,550 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 11:59:54,550 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 11:59:57,348 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 11:59:57,349 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 11:59:57,349 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 11:59:57,349 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 11:59:57,349 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 11:59:57,349 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:19,245 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 14:07:19,351 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 14:07:19,351 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 14:07:19,370 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 14:07:19,836 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 14:07:19,837 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 14:07:19,838 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 14:07:19,841 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:19,841 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:07:19,842 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ1CN4442177F.json
+2025-10-30 14:07:19,843 [DEBUG] [MainThread] [systray_widget/systray.py:528]: State file not found.
+2025-10-30 14:07:19,844 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:19,844 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:07:19,845 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ2CN444217B6.json
+2025-10-30 14:07:19,845 [DEBUG] [MainThread] [systray_widget/systray.py:528]: State file not found.
+2025-10-30 14:07:19,847 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:19,847 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:07:19,848 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_AUOPTRONICSDISPLAY1.json
+2025-10-30 14:07:19,848 [DEBUG] [MainThread] [systray_widget/systray.py:528]: State file not found.
+2025-10-30 14:07:19,958 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 14:07:19,973 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 14:07:23,736 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 14:07:23,738 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 14:07:23,739 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 14:07:23,740 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 14:07:30,261 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 14:07:31,708 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 14:07:40,626 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 14:07:41,986 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:07:44,549 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 14:07:44,597 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:07:45,271 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:07:45,792 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 14:07:45,793 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 14:07:45,794 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 14:07:45,844 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 14:07:45,847 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 14:07:45,860 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ1CN4442177F.json
+2025-10-30 14:07:45,863 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ2CN444217B6.json
+2025-10-30 14:07:45,868 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-30 14:07:45,869 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-30 14:07:45,874 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_AUOPTRONICSDISPLAY1.json
+2025-10-30 14:07:45,885 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 3739196
+2025-10-30 14:07:45,886 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3739196
+2025-10-30 14:07:46,078 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-30 14:07:46,156 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-30 14:07:46,562 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3739196
+2025-10-30 14:07:46,581 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49268
+2025-10-30 14:07:46,592 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 297407565
+2025-10-30 14:07:48,276 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:48,277 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:48,278 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:48,278 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:48,278 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:48,280 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:49,982 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:49,982 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:49,982 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:49,982 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:49,982 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:49,982 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:50,982 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:50,983 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:50,983 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:50,983 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:50,983 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:50,983 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:55,656 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:55,657 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:55,657 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:55,657 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:07:55,657 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:07:55,657 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:18,455 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\kimanh\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- primary-bar:
+  - dimensions:
+    - height:
+      - must be of integer type
+
+2025-10-30 14:08:23,892 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 14:08:23,994 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 14:08:23,994 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 14:08:24,003 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 14:08:24,328 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 14:08:24,329 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 14:08:24,329 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 14:08:24,330 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 14:08:24,450 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 14:08:24,451 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 14:08:24,451 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 14:08:24,452 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:24,452 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:08:24,453 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ1CN4442177F.json
+2025-10-30 14:08:24,454 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:24,454 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:08:24,456 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ2CN444217B6.json
+2025-10-30 14:08:24,457 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:24,459 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:08:24,459 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_AUOPTRONICSDISPLAY1.json
+2025-10-30 14:08:24,475 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 14:08:24,489 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 14:08:32,100 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 14:08:32,537 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 14:08:33,026 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 14:08:33,267 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:08:34,695 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 14:08:34,739 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:08:35,323 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:08:35,800 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 14:08:35,801 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 14:08:35,802 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 14:08:35,871 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 14:08:35,872 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 14:08:35,885 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ1CN4442177F.json
+2025-10-30 14:08:35,888 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-30 14:08:35,888 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-30 14:08:35,889 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ2CN444217B6.json
+2025-10-30 14:08:35,893 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\kimanh\AppData\Local\YASB\systray_state_AUOPTRONICSDISPLAY1.json
+2025-10-30 14:08:35,894 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1380092
+2025-10-30 14:08:35,894 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1380092
+2025-10-30 14:08:35,951 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-30 14:08:36,153 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1380092
+2025-10-30 14:08:36,155 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-30 14:08:36,165 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49268
+2025-10-30 14:08:36,178 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 670962001
+2025-10-30 14:08:37,681 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:37,683 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:37,683 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:37,683 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:37,683 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:37,683 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:40,476 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:40,476 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:40,476 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:40,477 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:40,477 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:40,477 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:45,214 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:45,214 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:45,214 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:45,214 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:08:45,214 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-30 14:08:45,215 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:19:22,756 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 14:19:22,864 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 14:19:22,864 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 14:19:22,877 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 14:19:23,360 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 14:19:23,360 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 14:19:23,362 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 14:19:23,362 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:19:23,362 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:19:23,363 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ1CN4442177F.json
+2025-10-30 14:19:23,389 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:19:23,389 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:19:23,390 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_HPINCHP727PQ2CN444217B6.json
+2025-10-30 14:19:23,395 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-30 14:19:23,396 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-30 14:19:23,397 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\kimanh\AppData\Local\YASB\systray_state_AUOPTRONICSDISPLAY1.json
+2025-10-30 14:19:23,490 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 14:19:23,503 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-30 14:19:27,223 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 14:19:27,225 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 14:19:27,226 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 14:19:27,226 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 14:19:30,737 [INFO] [MainThread] [root/main.py:73]: Previous instance exited, continuing startup.
+2025-10-30 14:19:32,074 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-30 14:19:40,622 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-30 14:19:41,767 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:19:44,250 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2025-10-30 14:19:44,291 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:19:44,395 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'systray'
+2025-10-30 14:19:44,857 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-30 14:19:44,945 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'systray'
+2025-10-30 14:19:45,366 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-30 14:19:45,366 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-30 14:19:45,367 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to validate widget(s) due to invalid options  - systray
+      icon_size:
+      - min value is 8
+      
+2025-10-30 14:19:45,387 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\kimanh\.config\yasb
+2025-10-30 14:19:45,421 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-30 14:19:45,423 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-30 14:20:00,157 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-30 14:20:00,264 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-30 14:20:00,264 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-30 14:20:00,277 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-30 14:20:00,623 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-30 14:20:00,624 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-30 14:20:00,624 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-30 14:20:00,624 [INFO] [MainThread] [root/main.py:47]: Waiting for previous YASB instance to exit...
+2025-10-30 14:20:00,664 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-30 14:20:00,665 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-30 14:20:00,665 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2025-10-30 14:20:00,740 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-30 14:20:00,746 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
